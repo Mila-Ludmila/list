@@ -31,8 +31,7 @@ h1{
   text-align: justify;
   text-indent: 5%;
 }
-
-#back-to-top {
+#button {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -45,8 +44,7 @@ h1{
   font-size: 20px;
   cursor: pointer;
 }
-
-#back-to-top:hover {
+#button:hover {
   background-color: coral;
   box-shadow: 1px 2px 2px gray;
   
